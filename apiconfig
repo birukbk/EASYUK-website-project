@@ -1,0 +1,16 @@
+https://developers.facebook.com/quickstarts/?platform=web
+
+EASYUK
+
+app id : 1803576159873324
+app sec : ab7f73fd844093a37476dc5d172651bc
+
+pageid : 1040841009280157
+
+
+https://graph.facebook.com/oauth/access_token?grant_type=client_credentials&client_id=APP_ID&client_secret=APPSECRET
+
+access_token=1803576159873324|EioW4GdMxJbBAHSrn-KhFana4eE
+
+
+https://graph.facebook.com/1040841009280157/posts?access_token=1803576159873324|EioW4GdMxJbBAHSrn-KhFana4eE
